@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PDMPlugin">
+    <option name="customRuleSets">
+      <list>
+        <option value="C:\Users\nipa0922\Desktop\Maven\GIT_PROJECT\maven-plugin-super-poms\pmd-rules\src\main\resources\pmd-rules.xml" />
+      </list>
+    </option>
+    <option name="skipTestSources" value="false" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
