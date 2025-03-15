@@ -31,5 +31,6 @@ type.setName("Robin");
 
         System.out.println(type.getPrice());
         System.out.println(type.getName());
+        System.out.println("We will continue!");
     }
 }
